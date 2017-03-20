@@ -6,7 +6,7 @@
   <node name="zed_wrapper_node" pkg="zed_wrapper" type="zed_wrapper_node" output="screen">
 
     <!-- SVO file path -->
-    <param name="svo_filepath" value="$(arg svo_file)" />
+    <param name="svo_filepath" value="/media/z3p0_16/7957d48f-572f-44aa-8875-93f7b5630d11/ZedData/Obstacle_Recording/DrivingPotentialPathManually.svo" />
 
     <!-- ZED parameters -->
     <param name="zed_id"                value="$(arg zed_id)" />
